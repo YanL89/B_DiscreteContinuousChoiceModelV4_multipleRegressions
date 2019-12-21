@@ -1,4 +1,4 @@
-# Discrete-Continuous-Choice-Model-V4---multiple-regressions
+# DiscreteContinuousChoiceModelV4_multipleRegressions
 This is the forth version of discrete-continuous choice model, integrating probit model for discrete choices and multivariant regressions for continuous choices
 
 Please read "methodology and application of R code.pdf" before using the model
